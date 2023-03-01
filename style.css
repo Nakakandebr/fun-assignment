@@ -1,4 +1,4 @@
-*{
+ *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -7,7 +7,7 @@
 .cont{
     height: 100vh;
     width: 100%;
-    background-color: whitesmoke;
+    background-color: white;
 }
 nav{
     display: flex;
@@ -16,11 +16,11 @@ nav{
     padding-top: 10px;
     padding-left: 7%;
     padding-right: 7%;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Arial;
 }
 .fun{
     color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
 
 nav ul li{
@@ -30,21 +30,21 @@ nav ul li{
 }
 
     button{
-        border: cadetblue;
+        
         background:black;
         padding: 18px 18px 18px 18px;
-        border-radius: 7px;
-        color: black;
+        border-radius: 6px;
+        
         font-weight: bold;
-        font-size: 20px;
-        margin: 20px ;
+        font-size: 15px;
+        margin: 19px ;
         color: white;
 }
 .min{
-    font-weight: 540;
-    font-size: 75px;
+    font-weight:540px;
+    font-size: 74px;
     margin-left: 100px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 
 }
 .make{
@@ -57,37 +57,36 @@ button{
     border-radius: 3px;
 
 }
-.ima img{
+.image1 img{
     width: 700px;
     height: 80vh;
 }
-.image{
-    margin-left: 500px;
+.image1{
+    margin-left: 510px;
     margin-top: -188px;
     padding-bottom: 60px;
 }
 .chair1 img{
     width: 300px;
     height: 65vh;
-    margin-top: -100%;
-    margin-left: 110px;
-    margin-bottom: -4%;
-    
-
+    margin-top: -129%;
+    margin-left: 120px;
+                
 }
 .cha3 img{
+    margin-top: -40px;
     width: 160px;
     height: 40vh;
-    margin-left: 550px;
+    margin-left: 540px;
 }
 .cha2 img{
     width: 160px;
     margin-left: 950px;
-    margin-top: -200px;
+    margin-top: -170px;
 }
-.loyal{
+.royal{
     margin-left: 430px;
-    margin-bottom: -90px;
+    margin-bottom: -100px;
     font-weight: 800;
 }
 .content{
@@ -97,7 +96,7 @@ button{
 }
 .product{
     margin-left: 100px;
-    background-color: rgb(247, 229, 229);
+    background-color:aquamarine;
     width: 250px;
     padding-left: 10px;
     font-size: 20px;
@@ -115,7 +114,7 @@ button{
     padding-left: 10px;
     font-size: 20px;
     margin-left: 450px;
-    background-color: rgb(247, 233, 233);
+    background-color:aquamarine;
     margin-top: -275px;
 }
 .t0{
@@ -131,7 +130,7 @@ button{
     padding-left: 10px;
     font-size: 20px;
     margin-left: 800px;
-    background-color: rgb(247, 233, 233);
+    background-color:aquamarine;
     margin-top: -275px;
 }
 .th{
@@ -211,21 +210,22 @@ width: 350px;
 }
 .cha12 img{
     width: 500px;
-    margin-top: 40px;
+    margin-top: 44px;
 }
 .cha13 img{
     width: 500px;
-    margin-left: 45%;
-    margin-top: -29%;
+    margin-left: 50%;
+    margin-top: -30%;
 }
 .cha10 img{
     width: 500px;
-    margin-top: -1%;
+     margin-top: -1%;
+     
 }
 .cha14 img{
     width: 500px;
-    margin-left: 45%;
-    margin-top: -30%;
+    margin-left: 50%;
+    margin-top: -450%;
 }
 .now{
     background-color: whitesmoke;
@@ -240,9 +240,10 @@ width: 350px;
 }
 .geto{
     margin-top: 15%;
-    background-image: url(/images/gone.png);
+    background-image: url(/images/chair13.jpg);
     width: 100%;
-    height: 80vh;
+    height: 75vh;
+    
 }
 .sc{
     font-size: 60px;
@@ -310,4 +311,14 @@ width: 350px;
 .youtubee{
     margin-left: 14%;
     margin-top: -1.5%;
+}
+ .last{
+height:70vh;
+width: 5px;
+margin-top: -30px;
+} 
+.im6{
+
+margin-left: 26%;
+
 }
