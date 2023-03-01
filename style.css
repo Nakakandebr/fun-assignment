@@ -1,0 +1,313 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.cont{
+    height: 100vh;
+    width: 100%;
+    background-color: whitesmoke;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 7%;
+    padding-right: 7%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fun{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+    button{
+        border: cadetblue;
+        background:black;
+        padding: 18px 18px 18px 18px;
+        border-radius: 7px;
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+        margin: 20px ;
+        color: white;
+}
+.min{
+    font-weight: 540;
+    font-size: 75px;
+    margin-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.make{
+    margin-left: 100px;
+    font-size: 25px;
+}
+button{
+    margin-right: 40px;
+    padding: 40px,30px,40px,40px;
+    border-radius: 3px;
+
+}
+.ima img{
+    width: 700px;
+    height: 80vh;
+}
+.image{
+    margin-left: 500px;
+    margin-top: -188px;
+    padding-bottom: 60px;
+}
+.chair1 img{
+    width: 300px;
+    height: 65vh;
+    margin-top: -100%;
+    margin-left: 110px;
+    margin-bottom: -4%;
+    
+
+}
+.cha3 img{
+    width: 160px;
+    height: 40vh;
+    margin-left: 550px;
+}
+.cha2 img{
+    width: 160px;
+    margin-left: 950px;
+    margin-top: -200px;
+}
+.loyal{
+    margin-left: 430px;
+    margin-bottom: -90px;
+    font-weight: 800;
+}
+.content{
+    margin-left: 350px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.product{
+    margin-left: 100px;
+    background-color: rgb(247, 229, 229);
+    width: 250px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.zero1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.prod{
+    font-size: 28px;
+    font-weight: 500;
+}
+.zero2{
+    width: 250px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-left: 450px;
+    background-color: rgb(247, 233, 233);
+    margin-top: -275px;
+}
+.t0{
+    font-weight: bold;
+    font-size: 60px;
+}
+.assurance{
+    font-size: 28px;
+    font-weight: 500;
+}
+.zero3{
+    width: 250px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-left: 800px;
+    background-color: rgb(247, 233, 233);
+    margin-top: -275px;
+}
+.th{
+    font-weight: bold;
+    font-size: 60px;
+}
+.ecological{
+    font-size: 28px;
+    font-weight: 500;
+}
+.mend{
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 15%;
+}
+.some{
+    margin-left: 70px;
+}
+.on{
+    margin-left: 70px;
+    border-radius: 10%;
+}
+.im1 img{
+    margin-left: 39%;
+    margin-top: -240px;
+    width: 300px;
+}
+.wu img{
+    width: 300px;
+    margin-top: -17%;
+    margin-left: 35%;
+
+}
+.six img{
+    width: 300px;
+    margin-left: 28%;
+}
+.int{
+    margin-top: 12%;
+    font-size: 50px;
+    font-weight: 550;
+    margin-left: 20%;
+}
+.cha8 img{
+width: 350px;
+
+}
+.cha7 img{
+    width: 350px;
+    margin-left: 35%;
+    margin-top: -30%;
+}
+.cha11 img{
+    width: 400px;
+    margin-left:70%;
+    margin-top: -30%;
+}
+.arm{
+    margin-top: -20px;
+    font-weight: 600;
+}
+.cal{
+    margin-left: 40%;
+    margin-top: -20px;
+    font-weight: 600;
+}
+.she{
+    margin-left: 75%;
+    margin-top: -20px;
+    font-weight: 600;
+}
+.best{
+    margin-top: 12%;
+    font-size: 50px;
+    font-weight: 550;
+    margin-left: 20%;
+}
+.cha12 img{
+    width: 500px;
+    margin-top: 40px;
+}
+.cha13 img{
+    width: 500px;
+    margin-left: 45%;
+    margin-top: -29%;
+}
+.cha10 img{
+    width: 500px;
+    margin-top: -1%;
+}
+.cha14 img{
+    width: 500px;
+    margin-left: 45%;
+    margin-top: -30%;
+}
+.now{
+    background-color: whitesmoke;
+    color: black;
+    border: black solid;
+    margin-left: 60%;
+    margin-top: -50px;
+}
+.view{
+    margin-left: 35%;
+
+}
+.geto{
+    margin-top: 15%;
+    background-image: url(/images/gone.png);
+    width: 100%;
+    height: 80vh;
+}
+.sc{
+    font-size: 60px;
+    margin-left: 18%;
+}
+.off{
+    font-size: 60px;
+    margin-left: 18%;
+}
+
+.ema{
+    margin-left: 18%;
+    padding: 30px;
+    padding-left: 200px;
+}
+.rem{
+    margin-left: 38%;
+    margin-top: -7%;
+    
+}
+.tur{
+    margin-top: 12%;
+}
+.fu{
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 10%;
+}
+.little{
+    margin-left: 10%;
+}
+.help{
+    margin-left: 40%;
+    margin-top: -10%;
+}
+.sup{
+    margin-left: 55%;
+    margin-top: -10%;
+}
+.add{
+    margin-left: 70%;
+    margin-top: -10%;
+}
+.et{
+    font-size: 25px;
+    font-weight: 500;
+    
+}
+.tt{
+    font-size: 25px;
+    font-weight: 500;
+}
+.dow{
+    font-size: 25px;
+    font-weight: 500;
+}
+.instagramm{
+    margin-left: 10%;
+
+}
+.twitterr{
+    margin-left: 12%;
+    margin-top: -1.5%;
+}
+.youtubee{
+    margin-left: 14%;
+    margin-top: -1.5%;
+}
