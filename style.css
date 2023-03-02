@@ -2,8 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family:Arial, Helvetica, sans-serif;
-}
+    font-family:Arial, Helvetica, sans-serif; 
+ 
+        
+        }
+
 .cont{
     height: 100vh;
     width: 100%;
@@ -49,45 +52,55 @@ nav ul li{
 }
 .make{
     margin-left: 100px;
-    font-size: 25px;
+    font-size: 16px;
 }
 button{
     margin-right: 40px;
-    padding: 40px,30px,40px,40px;
+    padding: 35px,29px,39px,39px;
     border-radius: 3px;
 
 }
 .image1 img{
-    width: 700px;
-    height: 80vh;
+    width: 651px;
+    height: 74vh;
 }
 .image1{
-    margin-left: 510px;
-    margin-top: -188px;
-    padding-bottom: 60px;
+    margin-left: 30%;
+    margin-top: -160px;
+     padding-bottom: 60px; 
 }
 .chair1 img{
     width: 300px;
     height: 65vh;
-    margin-top: -129%;
-    margin-left: 120px;
+    margin-top: -19%;
+    margin-left: 5%;
                 
 }
 .cha3 img{
-    margin-top: -40px;
-    width: 160px;
-    height: 40vh;
-    margin-left: 540px;
+    margin-top: -9%;
+    width: 100px;
+    height: 15vh;
+    margin-left: 45%;
 }
 .cha2 img{
-    width: 160px;
-    margin-left: 950px;
-    margin-top: -170px;
+    height: 15vh;
+    width: 100px;
+    margin-left: 65%;
+    margin-top: -18%;
 }
 .royal{
-    margin-left: 430px;
-    margin-bottom: -100px;
-    font-weight: 800;
+    font-size: 12px;
+    margin-left: 35%;
+     margin-bottom: -9%; 
+    /* font-weight: 800; */
+}
+.office{
+margin-left: 58%;
+margin-bottom: -4%;
+font-size: 12px;
+
+
+
 }
 .content{
     margin-left: 350px;
@@ -96,7 +109,7 @@ button{
 }
 .product{
     margin-left: 100px;
-    background-color:aquamarine;
+    background-color:antiquewhite;
     width: 250px;
     padding-left: 10px;
     font-size: 20px;
@@ -114,7 +127,7 @@ button{
     padding-left: 10px;
     font-size: 20px;
     margin-left: 450px;
-    background-color:aquamarine;
+    background-color: antiquewhite;
     margin-top: -275px;
 }
 .t0{
@@ -130,7 +143,7 @@ button{
     padding-left: 10px;
     font-size: 20px;
     margin-left: 800px;
-    background-color:aquamarine;
+    background-color:antiquewhite;
     margin-top: -275px;
 }
 .th{
@@ -145,6 +158,7 @@ button{
     font-size: 50px;
     margin-left: 70px;
     margin-top: 15%;
+    
 }
 .some{
     margin-left: 70px;
@@ -154,43 +168,54 @@ button{
     border-radius: 10%;
 }
 .im1 img{
-    margin-left: 39%;
-    margin-top: -240px;
-    width: 300px;
+    margin-left: 43%;
+    margin-top: -25%;
+    width: 255px;
+    height:50vh;
 }
 .wu img{
     width: 300px;
-    margin-top: -17%;
-    margin-left: 35%;
-
+    margin-top: -20%;
+    margin-left: 37%;
+height: 50vh;
 }
-.six img{
+.im6 img{
     width: 300px;
-    margin-left: 28%;
+    margin-left: 10%;
+    height:50vh;
 }
 .int{
-    margin-top: 12%;
+    margin-top: 19%;
     font-size: 50px;
     font-weight: 550;
     margin-left: 20%;
 }
 .cha8 img{
-width: 350px;
+width: 340px;
+height: 46vh;
+margin-left: 6%;
+margin-top: -10px;
 
 }
 .cha7 img{
     width: 350px;
-    margin-left: 35%;
-    margin-top: -30%;
+    margin-left: 39%;
+    margin-top: -36%;
+    height: 49vh;
+    padding-bottom: 10px;
 }
 .cha11 img{
     width: 400px;
     margin-left:70%;
     margin-top: -30%;
+    height:52vh;
+    padding-bottom: 20px;
+    
 }
 .arm{
-    margin-top: -20px;
+    margin-top: -29px;
     font-weight: 600;
+    margin-left: 10%;
 }
 .cal{
     margin-left: 40%;
@@ -209,40 +234,52 @@ width: 350px;
     margin-left: 20%;
 }
 .cha12 img{
-    width: 500px;
+    width: 342px;
+    height:40vh;
     margin-top: 44px;
+    margin-left: 6%;
 }
 .cha13 img{
-    width: 500px;
-    margin-left: 50%;
-    margin-top: -30%;
+    width: 550px;
+    margin-left: 43%;
+    margin-top: -19%;
+    height:50vh;
+    padding-bottom: 63px;
+    
 }
 .cha10 img{
-    width: 500px;
+    width: 567px;
      margin-top: -1%;
+     height:50vh;
+     margin-left: 6%;
      
 }
 .cha14 img{
-    width: 500px;
-    margin-left: 50%;
+    width: 400px;
+    margin-left: 55%;
     margin-top: -450%;
+    height: 53vh;
+    padding-bottom: 20px;
 }
 .now{
     background-color: whitesmoke;
     color: black;
     border: black solid;
     margin-left: 60%;
-    margin-top: -50px;
+    margin-top: -60%
 }
 .view{
     margin-left: 35%;
+    margin-top: -5%;
 
 }
 .geto{
     margin-top: 15%;
-    background-image: url(/images/chair13.jpg);
+    background-image: url(/images/backgroundo.jpg);
     width: 100%;
     height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .sc{
